@@ -3,7 +3,7 @@ wn=turtle.Screen()
 ed=turtle.Turtle()
 
 ed.speed('fastest')
-ed.pencolor('green')
+ed.pencolor('red')
 square=int(input("How many squares to draw?: "))
 units=int(input("What unit to increment the length of each side of the square?: "))
 
